@@ -1,145 +1,195 @@
 {
-    "profile": [
-        {
-            "id": 1,
-            "name": "Никита",
-            "status": "Лаборант",
-            "specialty": "Android dev"
-        },
-        {
-            "id": 2,
-            "name": "Валентин",
-            "status": "Лаборант",
-            "specialty": "Android dev"
-        },
-        {
-            "id": 3,
-            "name": "Юлия",
-            "status": "Лаборант",
-            "specialty": "Android dev"
-        },
-        {
-            "id": 4,
-            "name": "Артур",
-            "status": "Лаборант",
-            "specialty": "Android dev"
-        },
-        {
-            "id": 5,
-            "name": "Данил",
-            "status": "Лаборант",
-            "specialty": "Android dev"
-        },
-        {
-            "id": 6,
-            "name": "Иван",
-            "status": "Куратор",
-            "specialty": "Android dev"
-        }
-    ],
-    "vacancy": [
-        {
-            "id": 1,
-            "title": "Инженер-проектировщик",
-            "type": "Разработка ПО",
-            "salary": 80000
-        },
-        {
-            "id": 2,
-            "title": "Ведущий Android-разработчик",
-            "type": "Разработка ПО",
-            "salary": 150000
-        },
-        {
-            "id": 3,
-            "title": "Разработчик БД",
-            "type": "Разработка ПО",
-            "salary": 50000
-        },
-        {
-            "id": 4,
-            "title": "Программист Python",
-            "type": "Разработка ПО",
-            "salary": 25000
-        },
-        {
-            "id": 5,
-            "title": "Программист .NET Core",
-            "type": "Разработка ПО",
-            "salary": 80000
-        },
-        {
-            "id": 6,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        },
-        {
-            "id": 7,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        },
-        {
-            "id": 8,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        },
-        {
-            "id": 9,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        },
-        {
-            "id": 10,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        },
-        {
-            "id": 11,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        },
-        {
-            "id": 12,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        },
-        {
-            "id": 13,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        },
-        {
-            "id": 14,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        },
-        {
-            "id": 15,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        },
-        {
-            "id": 16,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        },
-        {
-            "id": 17,
-            "title": "Ведущий IOS-разработчик",
-            "type": "Разработка ПО",
-            "salary": 145000
-        }
-    ]
-    
+  "profile": [
+    {
+      "id": 1,
+      "name": "Никита",
+      "status": "Лаборант",
+      "specialty": "Android dev"
+    },
+    {
+      "id": 2,
+      "name": "Валентин",
+      "status": "Лаборант",
+      "specialty": "Android dev"
+    },
+    {
+      "id": 3,
+      "name": "Юлия",
+      "status": "Лаборант",
+      "specialty": "Android dev"
+    },
+    {
+      "id": 4,
+      "name": "Артур",
+      "status": "Лаборант",
+      "specialty": "Android dev"
+    },
+    {
+      "id": 5,
+      "name": "Данил",
+      "status": "Лаборант",
+      "specialty": "Android dev"
+    },
+    {
+      "id": 6,
+      "name": "Иван",
+      "status": "Куратор",
+      "specialty": "Android dev"
+    }
+  ],
+  "vacancy": [
+    {
+      "id": 543534634667,
+      "title": "Инженер-проектировщик",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work-experience": "1 - 2",
+      "date": "12.12.2020",
+      "description": "markdown",
+      "status-vacancy": true,
+      "submit": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    },
+    {
+      "id": 3466654645,
+      "title": "Инженер-проектировщик",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work-experience": "1 - 2",
+      "date": "12.12.2020",
+      "description": "markdown",
+      "status-vacancy": true,
+      "submit": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    },
+    {
+      "id": 67986785,
+      "title": "Инженер-проектировщик",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work-experience": "1 - 2",
+      "date": "12.12.2020",
+      "description": "markdown",
+      "status-vacancy": true,
+      "submit": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    },
+    {
+      "id": 9789564,
+      "title": "Инженер-проектировщик",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work-experience": "1 - 2",
+      "date": "12.12.2020",
+      "description": "markdown",
+      "status-vacancy": true,
+      "submit": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    },
+    {
+      "id": 48967443,
+      "title": "Инженер-проектировщик",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work-experience": "1 - 2",
+      "date": "12.12.2020",
+      "description": "markdown",
+      "status-vacancy": true,
+      "submit": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    },
+    {
+      "id": 48567335643,
+      "title": "Инженер-проектировщик",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work-experience": "1 - 2",
+      "date": "12.12.2020",
+      "description": "markdown",
+      "status-vacancy": true,
+      "submit": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    },
+    {
+      "id": 576843374,
+      "title": "Инженер-проектировщик",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work-experience": "1 - 2",
+      "date": "12.12.2020",
+      "description": "markdown",
+      "status-vacancy": true,
+      "submit": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    },
+    {
+      "id": 8779873445346,
+      "title": "Инженер-проектировщик",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work-experience": "1 - 2",
+      "date": "12.12.2020",
+      "description": "markdown",
+      "status-vacancy": true,
+      "submit": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    },
+    {
+      "id": 4589568078,
+      "title": "Инженер-проектировщик",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work-experience": "1 - 2",
+      "date": "12.12.2020",
+      "description": "markdown",
+      "status-vacancy": true,
+      "submit": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    }
+  ]
 }
