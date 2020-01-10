@@ -1,0 +1,79 @@
+{
+    "profile": [
+        {
+            "id": 1,
+            "name": "Никита",
+            "status": "Лаборант",
+            "specialty": "Android dev"
+        },
+        {
+            "id": 2,
+            "name": "Валентин",
+            "status": "Лаборант",
+            "specialty": "Android dev"
+        },
+        {
+            "id": 3,
+            "name": "Юлия",
+            "status": "Лаборант",
+            "specialty": "Android dev"
+        },
+        {
+            "id": 4,
+            "name": "Артур",
+            "status": "Лаборант",
+            "specialty": "Android dev"
+        },
+        {
+            "id": 5,
+            "name": "Данил",
+            "status": "Лаборант",
+            "specialty": "Android dev"
+        },
+        {
+            "id": 6,
+            "name": "Иван",
+            "status": "Куратор",
+            "specialty": "Android dev"
+        }
+    ],
+    "vacancy": [
+        {
+            "id": 1,
+            "title": "Инженер-проектировщик",
+            "type": "Разработка ПО",
+            "salary": 80000
+        },
+        {
+            "id": 2,
+            "title": "Ведущий Android-разработчик",
+            "type": "Разработка ПО",
+            "salary": 150000
+        },
+        {
+            "id": 3,
+            "title": "Разработчик БД",
+            "type": "Разработка ПО",
+            "salary": 50000
+        },
+        {
+            "id": 4,
+            "title": "Программист Python",
+            "type": "Разработка ПО",
+            "salary": 25000
+        },
+        {
+            "id": 5,
+            "title": "Программист .NET Core",
+            "type": "Разработка ПО",
+            "salary": 80000
+        },
+        {
+            "id": 6,
+            "title": "Ведущий IOS-разработчик",
+            "type": "Разработка ПО",
+            "salary": 145000
+        }
+    ]
+    
+}
