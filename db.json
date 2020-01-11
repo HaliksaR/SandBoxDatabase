@@ -1,55 +1,53 @@
 {
-  "profile": [
-    {
-      "id": 1,
-      "name": "Валек",
-      "surname": "Валекасов",
-      "patronymic": "Валекасович",
-      "photo": "https://sun9-71.userapi.com/c858032/v858032819/145124/DUrXt3p1_OU.jpg",
-      "date_birth": "20.11.1999",
-      "gender": "male",
-      "city": "Новосибирск",
-      "phone": "+74568761243",
-      "email": "valek@gmail.com",
-      "active_vacancies": [
-        {
-          "id": 543534634,
-          "status": 2
-        },
-        {
-          "id": 34666546,
-          "status": 2
-        },
-        {
-          "id": 67986785,
-          "status": 2
-        }
-      ],
-      "active_events": [
-        {
-          "id": 234423,
-          "status": 2
-        }
-      ],
-      "subscribe_events_tags": [
-        "shift",
-        "android",
-        "winter"
-      ],
-      "subscribe_vacancies_tags": [
-        "android",
-        "web",
-        "kotlin"
-      ],
-      "notifications": [
-        {
-          "telegram" : true,
-          "email": false,
-          "mobile_notifications" : true
-        }
-      ]
-    }
-  ],
+  "profile": {
+    "id": 1,
+    "name": "Валек",
+    "surname": "Валекасов",
+    "patronymic": "Валекасович",
+    "photo": "https://sun9-71.userapi.com/c858032/v858032819/145124/DUrXt3p1_OU.jpg",
+    "date_birth": "20.11.1999",
+    "gender": "male",
+    "city": "Новосибирск",
+    "phone": "+74568761243",
+    "email": "valek@gmail.com",
+    "active_vacancies": [
+      {
+        "id": 543534634,
+        "status": 2
+      },
+      {
+        "id": 34666546,
+        "status": 2
+      },
+      {
+        "id": 67986785,
+        "status": 2
+      }
+    ],
+    "active_events": [
+      {
+        "id": 234423,
+        "status": 2
+      }
+    ],
+    "subscribe_events_tags": [
+      "shift",
+      "android",
+      "winter"
+    ],
+    "subscribe_vacancies_tags": [
+      "android",
+      "web",
+      "kotlin"
+    ],
+    "notifications": [
+      {
+        "telegram": true,
+        "email": false,
+        "mobile_notifications": true
+      }
+    ]
+  },
   "vacancies": [
     {
       "id": 543534634,
