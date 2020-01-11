@@ -42,9 +42,11 @@
         "kotlin"
       ],
       "notifications": [
-        true,
-        true,
-        false
+        {
+          "telegram" : true,
+          "email": false,
+          "mobile_notifications" : true
+        }
       ]
     }
   ],
