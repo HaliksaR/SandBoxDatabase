@@ -2,42 +2,53 @@
   "profile": [
     {
       "id": 1,
-      "name": "Никита",
-      "status": "Лаборант",
-      "specialty": "Android dev"
-    },
-    {
-      "id": 2,
-      "name": "Валентин",
-      "status": "Лаборант",
-      "specialty": "Android dev"
-    },
-    {
-      "id": 3,
-      "name": "Юлия",
-      "status": "Лаборант",
-      "specialty": "Android dev"
-    },
-    {
-      "id": 4,
-      "name": "Артур",
-      "status": "Лаборант",
-      "specialty": "Android dev"
-    },
-    {
-      "id": 5,
-      "name": "Данил",
-      "status": "Лаборант",
-      "specialty": "Android dev"
-    },
-    {
-      "id": 6,
-      "name": "Иван",
-      "status": "Куратор",
-      "specialty": "Android dev"
+      "name": "Валек",
+      "surname": "Валекасов",
+      "patronymic": "Валекасович",
+      "photo": "https://sun9-71.userapi.com/c858032/v858032819/145124/DUrXt3p1_OU.jpg",
+      "date_birth": "20.11.1999",
+      "gender": "male",
+      "city": "Новосибирск",
+      "phone": "+74568761243",
+      "email": "valek@gmail.com",
+      "active_vacancies": [
+        {
+          "id": 543534634,
+          "status": 2
+        },
+        {
+          "id": 34666546,
+          "status": 2
+        },
+        {
+          "id": 67986785,
+          "status": 2
+        }
+      ],
+      "active_events": [
+        {
+          "id": 234423,
+          "status": 2
+        }
+      ],
+      "subscribe_events_tags": [
+        "shift",
+        "android",
+        "winter"
+      ],
+      "subscribe_vacancies_tags": [
+        "android",
+        "web",
+        "kotlin"
+      ],
+      "notifications": [
+        true,
+        true,
+        false
+      ]
     }
   ],
-  "vacancy": [
+  "vacancies": [
     {
       "id": 543534634,
       "title": "Инженер-проектировщик",
@@ -46,10 +57,9 @@
       "salary": "10000 - 20000",
       "work_experience": "1 - 2",
       "employment": "Полный день",
-      "date": "12.12.2020",
+      "date_create": "12.12.2020",
       "description": "markdown",
-      "status_vacancy": true,
-      "submit": true,
+      "open": true,
       "tags": [
         "Разработка",
         "андройд",
@@ -58,16 +68,15 @@
     },
     {
       "id": 34666546,
-      "title": "Инженер-проектировщик",
+      "title": "Настройщик музыкальных инструментов",
       "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
       "city": "Новосибирск",
       "salary": "10000 - 20000",
       "work_experience": "1 - 2",
       "employment": "Полный день",
-      "date": "12.12.2020",
+      "date_create": "12.12.2020",
       "description": "markdown",
-      "status_vacancy": true,
-      "submit": true,
+      "open": true,
       "tags": [
         "Разработка",
         "андройд",
@@ -76,16 +85,15 @@
     },
     {
       "id": 67986785,
-      "title": "Инженер-проектировщик",
+      "title": "Специалист по стрижке овец",
       "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
       "city": "Новосибирск",
       "salary": "10000 - 20000",
       "work_experience": "1 - 2",
       "employment": "Полный день",
-      "date": "12.12.2020",
+      "date_create": "12.12.2020",
       "description": "markdown",
-      "status_vacancy": true,
-      "submit": true,
+      "open": true,
       "tags": [
         "Разработка",
         "андройд",
@@ -94,16 +102,15 @@
     },
     {
       "id": 978956,
-      "title": "Инженер-проектировщик",
+      "title": "Испытатель",
       "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
       "city": "Новосибирск",
       "salary": "10000 - 20000",
       "work_experience": "1 - 2",
       "employment": "Полный день",
-      "date": "12.12.2020",
+      "date_create": "12.12.2020",
       "description": "markdown",
-      "status_vacancy": true,
-      "submit": true,
+      "open": true,
       "tags": [
         "Разработка",
         "андройд",
@@ -112,16 +119,15 @@
     },
     {
       "id": 48967443,
-      "title": "Инженер-проектировщик",
+      "title": "Маркшейдер",
       "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
       "city": "Новосибирск",
       "salary": "10000 - 20000",
       "work_experience": "1 - 2",
       "employment": "Полный день",
-      "date": "12.12.2020",
+      "date_create": "12.12.2020",
       "description": "markdown",
-      "status_vacancy": true,
-      "submit": true,
+      "open": true,
       "tags": [
         "Разработка",
         "андройд",
@@ -130,16 +136,15 @@
     },
     {
       "id": 485673356,
-      "title": "Инженер-проектировщик",
+      "title": "Архитектор-проектировщик",
       "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
       "city": "Новосибирск",
       "salary": "10000 - 20000",
       "work_experience": "1 - 2",
       "employment": "Полный день",
-      "date": "12.12.2020",
+      "date_create": "12.12.2020",
       "description": "markdown",
-      "status_vacancy": true,
-      "submit": true,
+      "open": true,
       "tags": [
         "Разработка",
         "андройд",
@@ -148,16 +153,15 @@
     },
     {
       "id": 57684337,
-      "title": "Инженер-проектировщик",
+      "title": "Промышленный альпинист",
       "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
       "city": "Новосибирск",
       "salary": "10000 - 20000",
       "work_experience": "1 - 2",
       "employment": "Полный день",
-      "date": "12.12.2020",
+      "date_create": "12.12.2020",
       "description": "markdown",
-      "status_vacancy": true,
-      "submit": true,
+      "open": true,
       "tags": [
         "Разработка",
         "андройд",
@@ -166,16 +170,15 @@
     },
     {
       "id": 87798734,
-      "title": "Инженер-проектировщик",
+      "title": "Вальцовщик стана горячей прокатки",
       "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
       "city": "Новосибирск",
       "salary": "10000 - 20000",
       "work_experience": "1 - 2",
       "employment": "Полный день",
-      "date": "12.12.2020",
+      "date_create": "12.12.2020",
       "description": "markdown",
-      "status_vacancy": true,
-      "submit": true,
+      "open": true,
       "tags": [
         "Разработка",
         "андройд",
@@ -184,20 +187,102 @@
     },
     {
       "id": 45895680,
-      "title": "Инженер-проектировщик",
+      "title": "Станочник широкого профиля",
       "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
       "city": "Новосибирск",
       "salary": "10000 - 20000",
       "work_experience": "1 - 2",
       "employment": "Полный день",
-      "date": "12.12.2020",
+      "date_create": "12.12.2020",
       "description": "markdown",
-      "status_vacancy": true,
-      "submit": true,
+      "open": true,
       "tags": [
         "Разработка",
         "андройд",
         "Middle-разработчик"
+      ]
+    },
+    {
+      "id": 45895680,
+      "title": "Банковский кассир-операционист",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work_experience": "1 - 2",
+      "employment": "Полный день",
+      "date_create": "12.12.2020",
+      "description": "markdown",
+      "open": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    },
+    {
+      "id": 45895680,
+      "title": "Web-интегратор",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work_experience": "1 - 2",
+      "employment": "Полный день",
+      "date_create": "12.12.2020",
+      "description": "markdown",
+      "open": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    },
+    {
+      "id": 45895680,
+      "title": "Татуировщик",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "salary": "10000 - 20000",
+      "work_experience": "1 - 2",
+      "employment": "Полный день",
+      "date_create": "12.12.2020",
+      "description": "markdown",
+      "open": true,
+      "tags": [
+        "Разработка",
+        "андройд",
+        "Middle-разработчик"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": 234423,
+      "title": "Зимнее мероприятие",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "date_create": "01.11.2020",
+      "date_open": "12.11.2020 - 12.12.2020",
+      "description": "markdown",
+      "open": true,
+      "tags": [
+        "зима",
+        "разработка",
+        "интенсив"
+      ]
+    },
+    {
+      "id": 456321,
+      "title": "Летнее мероприятие",
+      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
+      "city": "Новосибирск",
+      "date_create": "01.07.2020",
+      "date_open": "12.07.2020 - 12.08.2020",
+      "description": "markdown",
+      "open": true,
+      "tags": [
+        "лето",
+        "разработка",
+        "интенсив"
       ]
     }
   ]
