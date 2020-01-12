@@ -40,13 +40,11 @@
       "web",
       "kotlin"
     ],
-    "notifications": [
-      {
-        "telegram": true,
-        "email": false,
-        "mobile_notifications": true
-      }
-    ]
+    "notifications": {
+      "telegram": true,
+      "email": false,
+      "mobile_notifications": true
+    }
   },
   "vacancies": [
     {
