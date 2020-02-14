@@ -54,8 +54,9 @@
       244
     ],
     "notifications": {
-      "type": "string",
-      "enum": ["PUSH_NOTIFICATION", "CHAT_BOT", "MAIL"]
+      "telegramNotifications": true,
+      "emailNotifications": false,
+      "mobileNotifications": true
     }
   },
   "interestCities": [
