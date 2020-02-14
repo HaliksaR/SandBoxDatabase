@@ -7,11 +7,11 @@
     "email": "alexMark@gmail.com",
     "phone": "+79952342142",
     "city": "Москва",
+    "previouslyWorkedInCFT": true,
     "interestCities": [
-      23,
-      4324,
-      54356,
-      244
+      87,
+      12,
+      52
     ],
     "activeVacancies": [
       {
@@ -61,14 +61,39 @@
   },
   "interestCities": [
     {
-      "id": 3344,
+      "id": 424,
       "nameRus": "Новосибирск",
       "nameEng": "Novosibirsk"
     },
     {
-      "id": 533,
-      "nameRus": "Уфа",
-      "nameEng": "Ufa"
+      "id": 12,
+      "nameRus": "Томск",
+      "nameEng": "Tomsk"
+    },
+    {
+      "id": 87,
+      "nameRus": "Нижний новгород",
+      "nameEng": "Nizhny Novgorod"
+    },
+    {
+      "id": 5345,
+      "nameRus": "Абиджан",
+      "nameEng": "Abidjan"
+    },
+    {
+      "id": 85647,
+      "nameRus": "Алжир",
+      "nameEng": "Algiers"
+    },
+    {
+      "id": 8247,
+      "nameRus": "Бордо",
+      "nameEng": "Bordeaux"
+    },
+    {
+      "id": 52,
+      "nameRus": "Дакар",
+      "nameEng": "Dakar"
     }
   ]
 }
