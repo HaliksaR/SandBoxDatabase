@@ -1,287 +1,74 @@
 {
-  "profile": {
-    "id": 1,
-    "name": "Валек",
-    "surname": "Валекасов",
-    "patronymic": "Валекасович",
-    "photo": "https://sun9-71.userapi.com/c858032/v858032819/145124/DUrXt3p1_OU.jpg",
-    "date_birth": "20.11.1999",
-    "gender": "male",
-    "city": "Новосибирск",
-    "phone": "+74568761243",
-    "email": "valek@gmail.com",
-    "active_vacancies": [
+  "Profile": {
+    "profileId": 3252356,
+    "firstName": "Алексей",
+    "lastName": "Марков",
+    "patronymic": "Яковлевич",
+    "email": "alexMark@gmail.com",
+    "phone": "+79952342142",
+    "city": "Москва",
+    "interestCities": [
+      23,
+      4324,
+      54356,
+      244
+    ],
+    "activeVacancies": [
       {
-        "id": 543534634,
+        "id": 453453,
+        "status": 1
+      },
+      {
+        "id": 2334,
+        "status": 3
+      },
+      {
+        "id": 7865,
+        "status": 5
+      }
+    ],
+    "activeEvents": [
+      {
+        "id": 232,
+        "status": 4
+      },
+      {
+        "id": 554,
         "status": 2
       },
       {
-        "id": 34666546,
-        "status": 2
-      },
-      {
-        "id": 67986785,
-        "status": 2
+        "id": 75,
+        "status": 1
       }
     ],
-    "active_events": [
-      {
-        "id": 234423,
-        "status": 2
-      }
+    "subscribeEventsTypes": [
+      23,
+      4324,
+      54356,
+      244
     ],
-    "subscribe_events_tags": [
-      "shift",
-      "android",
-      "winter"
-    ],
-    "subscribe_vacancies_tags": [
-      "android",
-      "web",
-      "kotlin"
+    "subscribeVacanciesDirections": [
+      23,
+      4324,
+      54356,
+      244
     ],
     "notifications": {
-      "telegram": true,
-      "email": false,
-      "mobile_notifications": true
+      "type": "string",
+      "enum": ["PUSH_NOTIFICATION", "CHAT_BOT", "MAIL"]
     }
   },
-  "vacancies": [
+  "interestCities": [
     {
-      "id": 543534634,
-      "title": "Инженер-проектировщик",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
+      "id": 3344,
+      "nameRus": "Новосибирск",
+      "nameEng": "Novosibirsk"
     },
     {
-      "id": 34666546,
-      "title": "Настройщик музыкальных инструментов",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
-    },
-    {
-      "id": 67986785,
-      "title": "Специалист по стрижке овец",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
-    },
-    {
-      "id": 978956,
-      "title": "Испытатель",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
-    },
-    {
-      "id": 48967443,
-      "title": "Маркшейдер",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
-    },
-    {
-      "id": 485673356,
-      "title": "Архитектор-проектировщик",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
-    },
-    {
-      "id": 57684337,
-      "title": "Промышленный альпинист",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
-    },
-    {
-      "id": 87798734,
-      "title": "Вальцовщик стана горячей прокатки",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
-    },
-    {
-      "id": 45895680,
-      "title": "Станочник широкого профиля",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
-    },
-    {
-      "id": 45895680,
-      "title": "Банковский кассир-операционист",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
-    },
-    {
-      "id": 45895680,
-      "title": "Web-интегратор",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
-    },
-    {
-      "id": 45895680,
-      "title": "Татуировщик",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "salary": "10000 - 20000",
-      "work_experience": "1 - 2",
-      "employment": "Полный день",
-      "date_create": "12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "Разработка",
-        "андройд",
-        "Middle-разработчик"
-      ]
-    }
-  ],
-  "events": [
-    {
-      "id": 234423,
-      "title": "Зимнее мероприятие",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "date_create": "01.11.2020",
-      "date_open": "12.11.2020 - 12.12.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "зима",
-        "разработка",
-        "интенсив"
-      ]
-    },
-    {
-      "id": 456321,
-      "title": "Летнее мероприятие",
-      "url": "https://translate.yandex.ru/?lang=en-ru&text=submit",
-      "city": "Новосибирск",
-      "date_create": "01.07.2020",
-      "date_open": "12.07.2020 - 12.08.2020",
-      "description": "markdown",
-      "open": true,
-      "tags": [
-        "лето",
-        "разработка",
-        "интенсив"
-      ]
+      "id": 533,
+      "nameRus": "Уфа",
+      "nameEng": "Ufa"
     }
   ]
 }
+
