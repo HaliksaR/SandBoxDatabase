@@ -53,11 +53,11 @@
       54356,
       244
     ],
-    "notifications": {
-      "telegramNotifications": true,
-      "emailNotifications": false,
-      "mobileNotifications": true
-    }
+    "notifications": [
+      "PUSH_NOTIFICATION",
+      "CHAT_BOT",
+      "MAIL"
+    ]
   },
   "interestCities": [
     {
