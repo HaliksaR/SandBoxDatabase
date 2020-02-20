@@ -186,18 +186,18 @@
   ],
   "vacancies": [
     {
-      "id": 666,
-      "title": "iOS - разработчик",
+      "id": 777,
+      "title": "Инженер-программист",
       "city": "Новосибирск"
     },
     {
       "id": 666,
-      "title": "Android - разработчик",
+      "title": "Android-разработчик",
       "city": "Новосибирск"
     },
     {
       "id": 666,
-      "title": "Data Base - разработчик",
+      "title": "Data Base-разработчик",
       "city": "Новосибирск"
     },
     {
@@ -209,7 +209,7 @@
   "vacancy": [
     {
       "id": 666,
-      "title": "Android - разработчик",
+      "title": "Android-разработчик",
       "city": "Новосибирск",
       "workfieldId": 4534,
       "vacancyDirectionId": 5553,
@@ -227,6 +227,37 @@
     },
     "workplace": {
       "title": "ул. Мусы Джалиля, 11",
+      "description": "город Новосибирск"
+    },
+    "conditions": [
+      {
+        "id": 543543,
+        "title": "Название условия",
+        "description": "Описание условия",
+        "icon": "Ссылка на иконку условия"
+      }
+    ]
+    },
+    {
+      "id": 777,
+      "title": "Инженер-разработчик",
+      "city": "Новосибирск",
+      "workfieldId": 4534,
+      "vacancyDirectionId": 5553,
+      "tags": [
+        "SQL",
+        "C#",
+        "Разработка"
+      ],
+      "expectations": "",
+      "description": {
+        "responsibilities": "подготовка и публикация отчетов на MS SQL Reporting Services; участие в проектах команды со стороны разработки БД.​",
+        "requirements": "​знание Transact-SQL; опыт создания отчетов в MS SQL Reporting Service; знание C# будет плюсом; владение английским языком (на уровне чтения документации).",
+        "competences": "Личные качества и профессиональные навыки",
+        "additionally": "Дополнительное описание к вакансии"
+    },
+    "workplace": {
+      "title": "ул.Демакова, 42",
       "description": "город Новосибирск"
     },
     "conditions": [
